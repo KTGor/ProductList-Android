@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string name="product_name_hint">Enter the name of the product.</string>
+    <string name="product_name_label">Name</string>
+    <string name="product_details_label">Details</string>
+    <string name="product_availability_label">Out of Stock</string>
+    <string name="product_quantity_hint">Product Stock Quantity: </string>
+    <string name="product_quantity_label">Quantity</string>
+    <string name="date_picker_title">Date of Restock:</string>
+    <string name="time_picker_title">Time of Restock:</string>
+    <string name="confirm_del_all_prod">Are you sure you want to delete all products?</string>
+    <string name="confirm_del_prod">Are you sure you want to delete this product?</string>
+    <string name="leave_hint">You have not insert the product name field.</string>
+    <string name="confirm_leave">Are you sure you want to leave now? </string>
+    <string name="confirm_not_saved">*All Data will not be saved.</string>
+
+    <string name="new_product">New Product</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="delete_all_product">Delete All Product</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d products</string>
+
+    <string name="product_brand_text">Brand</string>
+    <string name="product_restock_text">Send Restock Order</string>
+
+    <string name="product_restock">%1$s! The product was last restocked on %2$s. %3$s, and %4$s</string>
+    <string name="product_available">The product is available</string>
+    <string name="product_not_available">The product is not available</string>
+    <string name="request_order">Request Order</string>
+    <string name="product_restock_brand">The brand is %s</string>
+    <string name="product_restock_order">Product Restock Order</string>
+    <string name="send_order">Send order via</string>
+
+    <string name="delete_toast">Delete successfully</string>
+</resources>
